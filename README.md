@@ -1,2 +1,7 @@
-# qa_manual_tests
-Manual tests of a web application
+Application tested:
+SauceDemo (test automation practice website)
+
+Tested features:
+- Login
+- Product listing
+- Shopping cart
